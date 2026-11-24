@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Dilshana 👋
 
-<!--
-**dilshana-dasthakeer/dilshana-dasthakeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior QA Engineer** based in Kandy, Sri Lanka. I build test automation that teams trust: readable, stable, and wired into CI. ISTQB CTFL certified, over 4 years in QA.
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, TypeScript
+- **UI automation:** Selenium WebDriver, Playwright, Cucumber BDD, TestNG
+- **API testing:** Postman, REST-assured, Playwright API testing
+- **Practices:** Page Object Model, data-driven tests, cross-browser and parallel runs, flaky-test control
+- **CI/CD and reporting:** GitHub Actions, Docker, Allure
+- **AI-assisted testing:** test gap analysis, test case design from requirements, automation scripting
+
+### Featured projects
+
+| Project | What it shows |
+|---|---|
+| [selenium-java-testng-framework](https://github.com/dilshana-dasthakeer/selenium-java-testng-framework) | Selenium 4, TestNG, Page Object Model, retry handling, Docker Selenium Grid, Allure report published to GitHub Pages |
+| [playwright-typescript-framework](https://github.com/dilshana-dasthakeer/playwright-typescript-framework) | Playwright with fixtures, saved login session, API tests with auto cleanup, 4-project CI matrix |
+
+Both run on every push in GitHub Actions.
+
+### Find me
+
+[LinkedIn and links](https://linktr.ee/Dilshana6)
